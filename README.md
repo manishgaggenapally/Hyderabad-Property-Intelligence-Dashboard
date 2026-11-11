@@ -4,10 +4,6 @@
 
 An interactive Power BI dashboard designed to analyze the Hyderabad real estate market. The dashboard provides insights into property listings, rental prices, property sizes, affordability, and furnishing trends across different zones of Hyderabad.
 
-## Dashboard Preview
-
-![Hyderabad Property Intelligence Dashboard](Dashboard.png)
-
 ## Key Performance Indicators (KPIs)
 
 - **Total Listings:** 486
